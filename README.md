@@ -16,3 +16,11 @@ paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_ROAD_Reality_
 
 3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare
 paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Kundu_3D-RCNN_Instance-Level_3D_CVPR_2018_paper.pdf
+
+
+
+Super-Identity Convolutional Neural Network for Face Hallucination
+paper : https://arxiv.org/pdf/1811.02328.pdf
+
+Single-Image-Super-Resolution
+Github:https://github.com/YapengTian/Single-Image-Super-Resolution
