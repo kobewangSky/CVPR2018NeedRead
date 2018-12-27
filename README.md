@@ -24,3 +24,6 @@ paper : https://arxiv.org/pdf/1811.02328.pdf
 
 Single-Image-Super-Resolution
 Github:https://github.com/YapengTian/Single-Image-Super-Resolution
+
+Training deep learning based denoisers without ground truth data
+https://papers.nips.cc/paper/7587-training-deep-learning-based-denoisers-without-ground-truth-data
