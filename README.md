@@ -1,4 +1,4 @@
-# CVPR2018NeedRead
+# Virtual to Real NeedRead
 
 Visual Object Networks: Image Generation with Disentangled 3D Representation
 paper:https://arxiv.org/pdf/1812.02725.pdf
