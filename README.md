@@ -27,3 +27,6 @@ Github:https://github.com/YapengTian/Single-Image-Super-Resolution
 
 Training deep learning based denoisers without ground truth data
 https://papers.nips.cc/paper/7587-training-deep-learning-based-denoisers-without-ground-truth-data
+
+Video-to-Video Synthesis
+https://papers.nips.cc/paper/7391-video-to-video-synthesis.pdf
