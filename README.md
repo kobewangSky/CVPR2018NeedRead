@@ -36,3 +36,7 @@ https://arxiv.org/pdf/1812.09953.pdf
 
 3D Scene Parsing via Class-Wise Adaptation
 https://arxiv.org/pdf/1812.03622.pdf
+
+Towards Accurate Task Accomplishment with Low-Cost Robotic Arms
+https://arxiv.org/pdf/1812.00725.pdf
+
