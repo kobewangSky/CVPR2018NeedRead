@@ -45,3 +45,7 @@ http://openaccess.thecvf.com/content_ECCV_2018/papers/Martin_Sundermeyer_Implici
 
 VADRA: Visual Adversarial Domain Randomization and Augmentation
 https://arxiv.org/pdf/1812.00491.pdf
+
+Learning Semantic Segmentation from Synthetic Data:A Geometrically Guided Input-Output Adaptation Approach
+https://arxiv.org/pdf/1812.05040.pdf
+
