@@ -30,3 +30,6 @@ https://papers.nips.cc/paper/7587-training-deep-learning-based-denoisers-without
 
 Video-to-Video Synthesis
 https://papers.nips.cc/paper/7391-video-to-video-synthesis.pdf
+
+A Curriculum Domain Adaptation Approach to the Semantic Segmentation of Urban Scenes
+https://arxiv.org/pdf/1812.09953.pdf
