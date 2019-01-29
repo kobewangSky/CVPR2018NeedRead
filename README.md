@@ -33,3 +33,6 @@ https://papers.nips.cc/paper/7391-video-to-video-synthesis.pdf
 
 A Curriculum Domain Adaptation Approach to the Semantic Segmentation of Urban Scenes
 https://arxiv.org/pdf/1812.09953.pdf
+
+3D Scene Parsing via Class-Wise Adaptation
+https://arxiv.org/pdf/1812.03622.pdf
