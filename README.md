@@ -40,3 +40,5 @@ https://arxiv.org/pdf/1812.03622.pdf
 Towards Accurate Task Accomplishment with Low-Cost Robotic Arms
 https://arxiv.org/pdf/1812.00725.pdf
 
+Implicit 3D Orientation Learning for 6D Object Detection from RGB Images
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Martin_Sundermeyer_Implicit_3D_Orientation_ECCV_2018_paper.pdf
