@@ -52,3 +52,7 @@ https://arxiv.org/pdf/1812.05040.pdf
 DOMAIN ADAPTATION FOR STRUCTURED OUTPUT VIA DISCRIMINATIVE PATCH REPRESENTATIONS
 https://arxiv.org/pdf/1901.05427.pdf
 
+Contrastive Adaptation Network for Unsupervised Domain Adaptation
+https://arxiv.org/pdf/1901.00976.pdf
+
+
