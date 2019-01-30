@@ -49,3 +49,6 @@ https://arxiv.org/pdf/1812.00491.pdf
 Learning Semantic Segmentation from Synthetic Data:A Geometrically Guided Input-Output Adaptation Approach
 https://arxiv.org/pdf/1812.05040.pdf
 
+DOMAIN ADAPTATION FOR STRUCTURED OUTPUT VIA DISCRIMINATIVE PATCH REPRESENTATIONS
+https://arxiv.org/pdf/1901.05427.pdf
+
