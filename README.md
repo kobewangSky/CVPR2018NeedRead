@@ -55,4 +55,14 @@ https://arxiv.org/pdf/1901.05427.pdf
 Contrastive Adaptation Network for Unsupervised Domain Adaptation
 https://arxiv.org/pdf/1901.00976.pdf
 
+On Minimum Discrepancy Estimation for Deep Domain Adaptation
+https://arxiv.org/pdf/1901.00282.pdf
+
+Artistic Object Recognition by Unsupervised Style Adaptation
+https://arxiv.org/pdf/1812.11139.pdf
+
+Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach
+https://arxiv.org/pdf/1812.05040.pdf
+
+
 
