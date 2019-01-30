@@ -17,7 +17,8 @@ paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_ROAD_Reality_
 3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare
 paper : http://openaccess.thecvf.com/content_cvpr_2018/papers/Kundu_3D-RCNN_Instance-Level_3D_CVPR_2018_paper.pdf
 
-
+Github
+https://github.com/zhaoxin94/awsome-domain-adaptation
 
 Super-Identity Convolutional Neural Network for Face Hallucination
 paper : https://arxiv.org/pdf/1811.02328.pdf
@@ -63,6 +64,9 @@ https://arxiv.org/pdf/1812.11139.pdf
 
 Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach
 https://arxiv.org/pdf/1812.05040.pdf
+
+Deep Visual Domain Adaptation: A Survey
+https://arxiv.org/pdf/1802.03601v4.pdf
 
 
 
