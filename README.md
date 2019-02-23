@@ -47,9 +47,6 @@ http://openaccess.thecvf.com/content_ECCV_2018/papers/Martin_Sundermeyer_Implici
 VADRA: Visual Adversarial Domain Randomization and Augmentation
 https://arxiv.org/pdf/1812.00491.pdf
 
-Learning Semantic Segmentation from Synthetic Data:A Geometrically Guided Input-Output Adaptation Approach
-https://arxiv.org/pdf/1812.05040.pdf
-
 DOMAIN ADAPTATION FOR STRUCTURED OUTPUT VIA DISCRIMINATIVE PATCH REPRESENTATIONS
 https://arxiv.org/pdf/1901.05427.pdf
 
@@ -68,5 +65,5 @@ https://arxiv.org/pdf/1812.05040.pdf
 Deep Visual Domain Adaptation: A Survey
 https://arxiv.org/pdf/1802.03601v4.pdf
 
-
-
+Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf
